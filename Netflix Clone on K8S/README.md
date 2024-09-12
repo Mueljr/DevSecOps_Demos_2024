@@ -63,7 +63,7 @@ Trivy - Open-source security scanner tool for files.
 
 11. Create new Pipeline on Jenkins - paste prepared code, type in there, or use Groovy editor.
 
-12. Run Pipeline.
+12. Run Pipeline - project pushes to DockerHub as an image.
 
 13. Run SonarQube Analysis having created a new project and linked it.
 
